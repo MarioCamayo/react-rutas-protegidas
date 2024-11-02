@@ -2,7 +2,6 @@
 
 export const Home = () => {
 
-  console.log();
 
 
   return (
